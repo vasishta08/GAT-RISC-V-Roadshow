@@ -21,4 +21,13 @@ This task is to know about running the c program in the risc-v environment. It a
 
 6. Verify that the number of address of O1 is greater than the number of address of Ofast
 
+TASK 02
+
+
+This task is to know about running the c program in the risc-v environment. It also includes calculating the number of addresses taken by the main section in the executed c program.
+
+<details>
+  
+<summary>click here to expand</summary>
+
  
