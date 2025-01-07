@@ -1,9 +1,9 @@
-# VSD
-# RISC-V 
+VSD
+RISC-V 
 
 An open source instruction set to develop custom processors for various application whose architecture is based on reduces instruction set computer.
 
-# TASK 01
+ TASK 01
 
 This task is to know about running the c program in the risc-v environment. It also includes calculating the number of addresses taken by the main section in the executed c program.
 
@@ -25,8 +25,9 @@ This task is to know about running the c program in the risc-v environment. It a
 
 </details>
 
-# TASK 02
+ TASK 02
 
+Physical design
 
 This task is to know about running the c program in the risc-v environment. It also includes calculating the number of addresses taken by the main section in the executed c program.
 
