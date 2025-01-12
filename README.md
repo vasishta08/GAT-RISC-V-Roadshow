@@ -52,6 +52,21 @@ This task is about the Physical design. It includes following steps:
 
 Blinking of LED : This task is about blinking of LED through compilation of its code in VSCODE.
 
+<details>
+<summary>TASK 2</summary> 
+
+This task is about the SPIKE Simulation. It includes the following :
+
+1. Run the simulation and observe the performance under the -O1.
+
+2. Run the simulation and observe the performance under the -Ofast.
+
+3. Compile any basic C program using the RISC-V GCC/SPIKE.
+
+4. Generate and collect RISC-V object dump for both -O1 and -Ofast
+
+</details>
+
  
 
  
