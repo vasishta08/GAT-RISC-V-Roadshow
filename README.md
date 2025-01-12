@@ -1,7 +1,9 @@
-VSD
-RISC-V 
+Name : Surabhi A S
+E mail : surabhisvasishta@gmail.com
 
-An open source instruction set to develop custom processors for various application whose architecture is based on reduces instruction set computer.
+Introduction - 
+
+RISC-V : An open source instruction set to develop custom processors for various application whose architecture is based on reduced instruction set computer. The features include modularity, extensibility and instruction sets. With these instructions it provides optimization and customization to the processors
 
 <details>
 <summary>TASK 01</summary> 
