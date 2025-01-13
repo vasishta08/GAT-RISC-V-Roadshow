@@ -1,5 +1,4 @@
-# <I>
-VSD SQUADRON </I>
+# <I> VSD SQUADRON </I>
 
 
 <B> Name </B> : Surabhi A S <br>
