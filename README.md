@@ -22,7 +22,9 @@ It includes the following steps.
 7. Verify that the number of address of O1 is greater than the number of address of Ofast. <br>
 
 </details>
-<s></s>
+<strike></strike>
+
+
 <details>
 <summary>TASK 1 Contd : This task is about the Physical design. </summary> 
 
