@@ -1,4 +1,4 @@
-# <I><u> VSD SQUADRON </I></u>
+# <I> VSD SQUADRON </I>
 
 <B> Name </B> : Surabhi A S <br>
 <B> E-mail </B> : surabhisvasishta@gmail.com <br>
