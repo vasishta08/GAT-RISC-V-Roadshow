@@ -1,6 +1,6 @@
 # VSD SQUADRON
 
-Name : Surabhi A S
+Name : Surabhi A S <br>
 E-mail : surabhisvasishta@gmail.com
 College : Global Academy of Technology
 
