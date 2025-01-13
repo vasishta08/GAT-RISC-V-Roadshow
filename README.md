@@ -9,9 +9,10 @@ Introduction -
 RISC-V : An open source instruction set to develop custom processors for various application whose architecture is based on reduced instruction set computer. The features include modularity, extensibility and instruction sets. With these instructions it provides optimization and customization to the processors
 
 <details>
-<summary>TASK 01 : This task is to know about running the c program in the risc-v environment. It includes the following steps. </summary> 
+<summary>TASK 01 : This task is to know about running the c program in the risc-v environment.  </summary> 
 
-  
+It includes the following steps. 
+
 1. Write a Sample C programming code in the leafpad editor. <br>
 2. Compile and run the code. <br>
 3. Identify the main section. <br>
