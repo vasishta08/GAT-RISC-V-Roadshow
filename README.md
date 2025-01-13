@@ -2,7 +2,7 @@
 
 <B> Name </B> : Surabhi A S <br>
 <B> E-mail </B> : surabhisvasishta@gmail.com <br>
-<B> College </B> : Global Academy of Technology
+<B> College </B> : <U> Global Academy of Technology </U>
 
 Introduction - 
 
