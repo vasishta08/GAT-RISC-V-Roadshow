@@ -9,7 +9,7 @@ Introduction -
 RISC-V : An open source instruction set to develop custom processors for various application whose architecture is based on reduced instruction set computer. The features include modularity, extensibility and instruction sets. With these instructions it provides optimization and customization to the processors
 
 <details>
-<summary>TASK 01 : This task is to know about running the c program in the risc-v environment.  </summary> 
+<summary> <strike>TASK 01 : This task is to know about running the c program in the risc-v environment.  </summary> </strike>
 
 It includes the following steps. 
 
@@ -22,7 +22,7 @@ It includes the following steps.
 7. Verify that the number of address of O1 is greater than the number of address of Ofast. <br>
 
 </details>
-<strike></strike>
+
 
 
 <details>
