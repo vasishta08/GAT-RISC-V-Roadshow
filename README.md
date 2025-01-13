@@ -49,7 +49,7 @@ It includes following steps:
 
 8. The last step is the Routing
 
-Blinking of LED : This task is about blinking of LED through compilation of its code in VSCODE.
+Blinking of LED : This task is about blinking of LED in the VSDSquadron Mini through compilation of its code in VSCODE.
 
 </details>
 
