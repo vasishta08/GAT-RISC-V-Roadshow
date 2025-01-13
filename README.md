@@ -1,6 +1,6 @@
-<html>
+<HTML>
  <head>
-  <title># <I> VSD SQUADRON </I> html background color</title>
+  <title># <I> VSD SQUADRON </I> HTML background color</title>
  </head>
  <body style="background-color: lightgreen;"
 
@@ -62,6 +62,7 @@ This task is about the SPIKE Simulation. It includes the following :
 4. Generate and collect RISC-V object dump for both -O1 and -Ofast
 
 </details>
+</HTML>
 
  
 
