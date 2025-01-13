@@ -47,7 +47,7 @@ Blinking of LED : This task is about blinking of LED in the VSDSquadron Mini thr
 <details>
 <summary>TASK 2 : This task is about the SPIKE Simulation.</summary> 
 
- It includes the following :
+It includes the following :
 
 1. Run the simulation and observe the performance under the -O1.
 
