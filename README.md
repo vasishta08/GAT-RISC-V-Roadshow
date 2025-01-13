@@ -1,8 +1,8 @@
-# <I> VSD SQUADRON </I> 
+# <I> <U> VSD SQUADRON </I> </U>
 
 <B> Name </B> : Surabhi A S <br>
-E-mail : surabhisvasishta@gmail.com <br>
-College : Global Academy of Technology
+<B> E-mail </B> : surabhisvasishta@gmail.com <br>
+<B> College </B> : Global Academy of Technology
 
 Introduction - 
 
